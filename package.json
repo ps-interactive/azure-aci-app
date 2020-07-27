@@ -1,0 +1,24 @@
+{
+  "name": "azure-aci-app",
+  "version": "1.0.0",
+  "description": "Create and Configure a Container with Azure Container Instances (ACI)",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ps-interactive/azure-aci-app.git"
+  },
+  "author": "Thomas Bell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ps-interactive/azure-aci-app/issues"
+  },
+  "homepage": "https://github.com/ps-interactive/azure-aci-app#readme"
+}
